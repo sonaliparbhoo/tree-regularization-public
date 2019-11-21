@@ -1,3 +1,8 @@
+Beyond Sparsity: Tree Regularization of Deep Models for Interpretability
+Mike Wu, Michael C. Hughes, Sonali Parbhoo, Maurizio Zazzi, Volker Roth, Finale Doshi-Velez
+
+In Proceedings AAAI 2018
+
 # NumPy Autograd Implementation
 
 This repository includes a toy signal-and-noise HMM dataset and a basic implementation of the Tree-regularized GRU model in NumPy Autograd. Please find the ArXiv copy here: https://arxiv.org/abs/1711.06178. 
