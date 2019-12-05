@@ -1,6 +1,11 @@
+Global Tree Regularization for Interpretable Deep Neural Networks
+
+Wu, Hughes, Parbhoo et al, In Proceedings AAAI 2018
+Please find the ArXiv copy here: https://arxiv.org/abs/1711.06178. 
+
 # NumPy Autograd Implementation
 
-This repository includes a toy signal-and-noise HMM dataset and a basic implementation of the Tree-regularized GRU model in NumPy Autograd. Please find the ArXiv copy here: https://arxiv.org/abs/1711.06178. 
+This repository includes a toy signal-and-noise HMM dataset and a basic implementation of the Tree-regularized GRU model in NumPy Autograd. 
 
 For more on NumPy Autograd, see https://github.com/HIPS/autograd.
 
